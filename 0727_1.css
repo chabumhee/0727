@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+    border: 3px solid pink;
+    border-radius: 3px;
+    width: 400px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.flex{
+    border-radius: 3px;
+    width: 20%;
+    height: 70%;
+    background-color: pink;
+    margin: 10px;
+}
